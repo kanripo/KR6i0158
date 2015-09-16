@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:11:26.572828
+#+DATE: 2015-08-30 20:11:28.141753
 #+TITLE: 佛說菩薩逝經
 #+PROPERTY: CBETA_ID T14n0528
 #+PROPERTY: ID KR6i0158
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 528
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0158_T_000-0803a>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0158_T_001-0803a> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.528[Nos.526,527]¶
-
- 佛說菩薩逝經¶
+No. 528 [Nos. 526, 527]¶
+佛說菩薩逝經¶
 ¶
-西晉沙門白法祖譯¶
+西晉沙門白法祖譯譯¶
 
 佛在鷂山中，與諸比丘五百人，皆阿羅漢，¶
 平旦皆著衣持鉢，入城各行求食。
