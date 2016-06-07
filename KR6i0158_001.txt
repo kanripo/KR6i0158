@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:11:26.572828
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:45
 #+TITLE: 佛說菩薩逝經
 #+PROPERTY: CBETA_ID T14n0528
 #+PROPERTY: ID KR6i0158
